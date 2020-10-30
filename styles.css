@@ -103,3 +103,9 @@ span {
     position: absolute;
     
 }
+#login {
+    left:50px;
+}
+#register {
+    left:450px;
+}
