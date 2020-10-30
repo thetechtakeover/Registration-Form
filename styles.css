@@ -18,8 +18,9 @@
     height: 480px;
     position: relative;
     margin: 6% auto;
-    background: #fff;
+    background: rgba(255, 255, 255, 0.918);
     padding: 5px;
+    border-radius: 5px;
     overflow: hidden;
 }
 
@@ -29,7 +30,6 @@
     position: relative;
     box-shadow: 0 0 20px 9x #c43d07fd;
     border-radius: 30px;
-    border: 2px olive;
 }
 
 .toggle-btn {
@@ -84,7 +84,7 @@
 
 }
 .submit-btn {
-    width: 85%;
+    width: 70%;
     padding: 10px 30px;
     cursor: pointer;
     display: block;
