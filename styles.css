@@ -4,6 +4,14 @@
     font-family: sans-serif;
 }
 
+.form-Title {
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    font-family: 'Amatic SC', cursive;
+}
+
 .hero {
     height: 100%;
     width: 100%;
@@ -12,6 +20,7 @@
     background-size: cover;
     position: absolute;
 }
+
 
 .form-box {
     width: 380px;
