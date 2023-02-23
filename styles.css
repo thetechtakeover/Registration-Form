@@ -4,12 +4,12 @@
     font-family: sans-serif;
 }
 
-.form-Title {
+.Title {
     color: #fff;
     text-align: center;
     margin-top: 50px;
-    font-size: 40px;
-    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .hero {
@@ -26,7 +26,7 @@
     width: 380px;
     height: 480px;
     position: relative;
-    margin: 6% auto;
+    margin: 30px auto;
     background: rgba(255, 255, 255, 0.918);
     padding: 5px;
     border-radius: 5px;
